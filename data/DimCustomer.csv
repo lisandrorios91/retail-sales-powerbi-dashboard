@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region
+C-0001,Customer_1,Home Office,Canada,City_83,Quebec,28951,South
+C-0002,Customer_2,Home Office,Canada,City_30,Texas,11307,East
+C-0003,Customer_3,Home Office,USA,City_71,Quebec,90388,East
+C-0004,Customer_4,Home Office,Canada,City_74,Florida,45428,Central
+C-0005,Customer_5,Consumer,USA,City_96,California,85774,West
+C-0006,Customer_6,Home Office,Canada,City_98,California,48975,South
+C-0007,Customer_7,Corporate,Canada,City_63,California,11140,Central
+C-0008,Customer_8,Consumer,USA,City_28,Texas,34842,South
+C-0009,Customer_9,Corporate,Canada,City_60,Texas,36421,East
+C-0010,Customer_10,Corporate,Canada,City_79,New York,11708,South
+C-0011,Customer_11,Corporate,Canada,City_94,California,13630,West
+C-0012,Customer_12,Corporate,USA,City_37,Florida,29595,West
+C-0013,Customer_13,Consumer,Canada,City_93,Quebec,86021,East
+C-0014,Customer_14,Consumer,USA,City_22,Florida,38308,West
+C-0015,Customer_15,Corporate,Canada,City_68,Quebec,54789,West
+C-0016,Customer_16,Corporate,USA,City_20,California,65690,Central
+C-0017,Customer_17,Consumer,USA,City_96,California,36086,South
+C-0018,Customer_18,Consumer,Canada,City_68,California,26859,East
+C-0019,Customer_19,Consumer,Canada,City_91,Texas,17684,East
+C-0020,Customer_20,Home Office,USA,City_64,Quebec,11207,East
+C-0021,Customer_21,Home Office,USA,City_17,Texas,56099,East
+C-0022,Customer_22,Home Office,Canada,City_12,Texas,77496,East
+C-0023,Customer_23,Corporate,USA,City_22,Ontario,76093,West
+C-0024,Customer_24,Home Office,Canada,City_17,Florida,39689,Central
+C-0025,Customer_25,Corporate,Canada,City_10,Florida,58651,East
+C-0026,Customer_26,Corporate,Canada,City_65,New York,23893,Central
+C-0027,Customer_27,Home Office,Canada,City_22,Texas,76418,Central
+C-0028,Customer_28,Corporate,USA,City_90,Quebec,70011,West
+C-0029,Customer_29,Home Office,Canada,City_82,Ontario,48635,East
+C-0030,Customer_30,Home Office,USA,City_50,Ontario,66115,West
+C-0031,Customer_31,Consumer,Canada,City_14,Florida,88405,East
+C-0032,Customer_32,Home Office,USA,City_64,Texas,82702,West
+C-0033,Customer_33,Consumer,Canada,City_47,New York,88518,Central
+C-0034,Customer_34,Home Office,USA,City_29,Texas,82805,East
+C-0035,Customer_35,Home Office,USA,City_76,California,68954,South
+C-0036,Customer_36,Consumer,Canada,City_36,Texas,38064,Central
+C-0037,Customer_37,Consumer,Canada,City_99,California,89063,South
+C-0038,Customer_38,Home Office,Canada,City_52,California,12454,Central
+C-0039,Customer_39,Corporate,Canada,City_76,New York,30878,West
+C-0040,Customer_40,Consumer,USA,City_7,Quebec,61098,East
+C-0041,Customer_41,Corporate,Canada,City_29,Florida,72154,Central
+C-0042,Customer_42,Corporate,USA,City_11,Texas,22991,West
+C-0043,Customer_43,Corporate,USA,City_33,California,78344,East
+C-0044,Customer_44,Consumer,Canada,City_6,Texas,46593,East
+C-0045,Customer_45,Corporate,USA,City_79,Quebec,46304,Central
+C-0046,Customer_46,Consumer,USA,City_32,Florida,40386,East
+C-0047,Customer_47,Corporate,USA,City_51,Quebec,65220,Central
+C-0048,Customer_48,Home Office,USA,City_75,Florida,79338,East
+C-0049,Customer_49,Home Office,Canada,City_58,Ontario,31083,South
+C-0050,Customer_50,Consumer,Canada,City_87,Florida,28354,West
+C-0051,Customer_51,Home Office,Canada,City_26,New York,32190,South
+C-0052,Customer_52,Home Office,Canada,City_98,Quebec,16142,Central
+C-0053,Customer_53,Corporate,USA,City_46,California,38398,South
+C-0054,Customer_54,Consumer,USA,City_98,Ontario,61971,Central
+C-0055,Customer_55,Corporate,Canada,City_29,New York,51862,East
+C-0056,Customer_56,Corporate,Canada,City_4,Texas,63410,East
+C-0057,Customer_57,Corporate,Canada,City_81,Quebec,29503,Central
+C-0058,Customer_58,Corporate,USA,City_99,California,58456,South
+C-0059,Customer_59,Corporate,Canada,City_13,Florida,92035,East
+C-0060,Customer_60,Corporate,Canada,City_39,California,18016,West
+C-0061,Customer_61,Corporate,Canada,City_15,Texas,12384,East
+C-0062,Customer_62,Consumer,USA,City_29,Ontario,72320,West
+C-0063,Customer_63,Home Office,USA,City_29,Ontario,25072,South
+C-0064,Customer_64,Corporate,USA,City_75,Quebec,90018,West
+C-0065,Customer_65,Corporate,USA,City_32,Ontario,50510,West
+C-0066,Customer_66,Corporate,USA,City_2,Quebec,58933,West
+C-0067,Customer_67,Corporate,USA,City_47,Quebec,31826,West
+C-0068,Customer_68,Corporate,USA,City_78,Quebec,78026,East
+C-0069,Customer_69,Corporate,USA,City_84,Florida,35518,West
+C-0070,Customer_70,Home Office,Canada,City_22,New York,34045,East
+C-0071,Customer_71,Home Office,Canada,City_75,Quebec,60876,West
+C-0072,Customer_72,Corporate,USA,City_27,Quebec,61919,Central
+C-0073,Customer_73,Home Office,USA,City_67,New York,37103,South
+C-0074,Customer_74,Consumer,Canada,City_81,California,46188,West
+C-0075,Customer_75,Corporate,USA,City_56,Quebec,15845,Central
+C-0076,Customer_76,Consumer,USA,City_92,Florida,96698,West
+C-0077,Customer_77,Consumer,USA,City_93,Ontario,46674,West
+C-0078,Customer_78,Corporate,Canada,City_21,Ontario,29337,West
+C-0079,Customer_79,Home Office,Canada,City_47,Texas,32313,Central
+C-0080,Customer_80,Consumer,Canada,City_80,Texas,36943,South
+C-0081,Customer_81,Corporate,Canada,City_59,Ontario,87949,Central
+C-0082,Customer_82,Consumer,Canada,City_84,Ontario,10276,South
+C-0083,Customer_83,Consumer,USA,City_6,Florida,61151,West
+C-0084,Customer_84,Consumer,Canada,City_19,New York,27611,East
+C-0085,Customer_85,Consumer,USA,City_57,Texas,21944,West
+C-0086,Customer_86,Home Office,USA,City_69,New York,62887,South
+C-0087,Customer_87,Consumer,Canada,City_3,Florida,91442,Central
+C-0088,Customer_88,Consumer,Canada,City_1,Ontario,59847,West
+C-0089,Customer_89,Consumer,USA,City_58,Quebec,68653,Central
+C-0090,Customer_90,Home Office,USA,City_38,New York,96072,Central
+C-0091,Customer_91,Consumer,USA,City_15,Ontario,66622,Central
+C-0092,Customer_92,Consumer,Canada,City_34,Ontario,37810,West
+C-0093,Customer_93,Home Office,Canada,City_61,California,87842,Central
+C-0094,Customer_94,Home Office,Canada,City_35,New York,20503,Central
+C-0095,Customer_95,Home Office,Canada,City_64,Quebec,94761,West
+C-0096,Customer_96,Consumer,Canada,City_25,New York,46976,Central
+C-0097,Customer_97,Home Office,USA,City_24,Ontario,21590,West
+C-0098,Customer_98,Home Office,Canada,City_12,Quebec,20886,South
+C-0099,Customer_99,Consumer,USA,City_18,Florida,22866,South
+C-0100,Customer_100,Home Office,USA,City_15,California,76624,South
+C-0101,Customer_101,Consumer,USA,City_80,Ontario,78899,Central
+C-0102,Customer_102,Corporate,Canada,City_27,Texas,42792,East
+C-0103,Customer_103,Home Office,Canada,City_72,Texas,19764,East
+C-0104,Customer_104,Corporate,Canada,City_60,California,96156,Central
+C-0105,Customer_105,Consumer,USA,City_46,Florida,52727,East
+C-0106,Customer_106,Home Office,USA,City_89,Ontario,88471,West
+C-0107,Customer_107,Consumer,USA,City_17,New York,18068,East
+C-0108,Customer_108,Corporate,USA,City_93,California,17295,Central
+C-0109,Customer_109,Consumer,USA,City_53,Florida,51160,Central
+C-0110,Customer_110,Home Office,USA,City_8,New York,21390,West
+C-0111,Customer_111,Home Office,Canada,City_79,Texas,30131,South
+C-0112,Customer_112,Corporate,Canada,City_27,Texas,85969,Central
+C-0113,Customer_113,Consumer,Canada,City_46,New York,25038,West
+C-0114,Customer_114,Home Office,Canada,City_50,California,62327,East
+C-0115,Customer_115,Corporate,USA,City_71,Texas,87064,East
+C-0116,Customer_116,Home Office,USA,City_3,Ontario,31281,West
+C-0117,Customer_117,Home Office,Canada,City_93,Quebec,64189,West
+C-0118,Customer_118,Consumer,USA,City_64,New York,58511,Central
+C-0119,Customer_119,Home Office,Canada,City_44,New York,18605,East
+C-0120,Customer_120,Consumer,Canada,City_53,Texas,11381,West
+C-0121,Customer_121,Home Office,Canada,City_24,California,76634,East
+C-0122,Customer_122,Corporate,USA,City_60,Ontario,29810,West
+C-0123,Customer_123,Home Office,Canada,City_3,California,34322,East
+C-0124,Customer_124,Consumer,Canada,City_20,Florida,51869,South
+C-0125,Customer_125,Consumer,Canada,City_46,Florida,42955,Central
+C-0126,Customer_126,Corporate,USA,City_15,Quebec,71388,East
+C-0127,Customer_127,Home Office,USA,City_25,Texas,20207,South
+C-0128,Customer_128,Home Office,Canada,City_94,Texas,97329,East
+C-0129,Customer_129,Corporate,USA,City_78,Texas,77628,East
+C-0130,Customer_130,Home Office,USA,City_71,Quebec,38220,South
+C-0131,Customer_131,Home Office,USA,City_17,Florida,94050,East
+C-0132,Customer_132,Consumer,USA,City_84,California,84085,East
+C-0133,Customer_133,Home Office,USA,City_9,Quebec,32031,Central
+C-0134,Customer_134,Home Office,USA,City_38,Quebec,80721,South
+C-0135,Customer_135,Corporate,USA,City_48,California,90807,South
+C-0136,Customer_136,Corporate,USA,City_60,Texas,81312,West
+C-0137,Customer_137,Consumer,USA,City_63,Ontario,69766,East
+C-0138,Customer_138,Home Office,USA,City_86,California,22449,Central
+C-0139,Customer_139,Home Office,Canada,City_2,Florida,99833,East
+C-0140,Customer_140,Home Office,Canada,City_88,New York,66699,East
+C-0141,Customer_141,Consumer,USA,City_72,New York,91253,West
+C-0142,Customer_142,Consumer,Canada,City_11,Quebec,56092,East
+C-0143,Customer_143,Corporate,Canada,City_64,New York,73671,Central
+C-0144,Customer_144,Consumer,USA,City_77,Ontario,20350,Central
+C-0145,Customer_145,Home Office,USA,City_81,Texas,78487,West
+C-0146,Customer_146,Home Office,USA,City_72,Florida,27622,East
+C-0147,Customer_147,Consumer,Canada,City_21,Ontario,80263,Central
+C-0148,Customer_148,Home Office,Canada,City_18,Florida,63117,East
+C-0149,Customer_149,Home Office,USA,City_94,Florida,68394,East
+C-0150,Customer_150,Consumer,USA,City_64,Texas,33782,East
+C-0151,Customer_151,Consumer,USA,City_82,Quebec,38454,West
+C-0152,Customer_152,Home Office,Canada,City_95,New York,77904,East
+C-0153,Customer_153,Home Office,Canada,City_38,Texas,25592,Central
+C-0154,Customer_154,Home Office,Canada,City_32,Ontario,32173,East
+C-0155,Customer_155,Corporate,Canada,City_11,Quebec,43204,Central
+C-0156,Customer_156,Corporate,USA,City_45,Ontario,45596,East
+C-0157,Customer_157,Corporate,USA,City_89,Quebec,44324,Central
+C-0158,Customer_158,Consumer,USA,City_33,Ontario,71202,Central
+C-0159,Customer_159,Corporate,USA,City_41,Texas,99400,East
+C-0160,Customer_160,Consumer,Canada,City_8,Quebec,40750,East
+C-0161,Customer_161,Consumer,Canada,City_11,Quebec,86112,Central
+C-0162,Customer_162,Corporate,USA,City_86,Florida,26566,South
+C-0163,Customer_163,Corporate,USA,City_51,Florida,17190,West
+C-0164,Customer_164,Corporate,Canada,City_88,California,98607,South
+C-0165,Customer_165,Home Office,USA,City_41,Ontario,48333,South
+C-0166,Customer_166,Corporate,Canada,City_17,Florida,90905,East
+C-0167,Customer_167,Home Office,USA,City_76,California,99571,West
+C-0168,Customer_168,Consumer,USA,City_46,Florida,11589,South
+C-0169,Customer_169,Home Office,USA,City_32,Ontario,35235,East
+C-0170,Customer_170,Corporate,USA,City_79,Quebec,10159,South
+C-0171,Customer_171,Consumer,USA,City_80,New York,22145,South
+C-0172,Customer_172,Consumer,USA,City_54,Ontario,90909,East
+C-0173,Customer_173,Consumer,USA,City_86,Texas,41921,East
+C-0174,Customer_174,Home Office,Canada,City_92,Florida,26237,East
+C-0175,Customer_175,Corporate,Canada,City_20,Florida,18244,West
+C-0176,Customer_176,Consumer,Canada,City_33,Quebec,24743,South
+C-0177,Customer_177,Consumer,Canada,City_74,Texas,56101,East
+C-0178,Customer_178,Consumer,Canada,City_40,Quebec,94227,Central
+C-0179,Customer_179,Home Office,USA,City_32,Texas,66378,South
+C-0180,Customer_180,Home Office,USA,City_97,New York,81126,Central
+C-0181,Customer_181,Corporate,Canada,City_2,Florida,66071,West
+C-0182,Customer_182,Home Office,USA,City_97,Florida,81121,East
+C-0183,Customer_183,Consumer,Canada,City_33,New York,84763,Central
+C-0184,Customer_184,Corporate,Canada,City_77,California,22237,West
+C-0185,Customer_185,Consumer,USA,City_30,Quebec,25649,East
+C-0186,Customer_186,Consumer,USA,City_33,New York,47713,Central
+C-0187,Customer_187,Home Office,USA,City_77,Quebec,83463,Central
+C-0188,Customer_188,Corporate,Canada,City_26,Ontario,55409,West
+C-0189,Customer_189,Home Office,USA,City_22,Florida,58766,East
+C-0190,Customer_190,Home Office,Canada,City_66,Quebec,56154,East
+C-0191,Customer_191,Corporate,Canada,City_38,Texas,17016,Central
+C-0192,Customer_192,Consumer,Canada,City_90,Quebec,89563,Central
+C-0193,Customer_193,Consumer,USA,City_46,Ontario,58688,Central
+C-0194,Customer_194,Corporate,USA,City_15,Florida,99678,East
+C-0195,Customer_195,Consumer,Canada,City_98,New York,64238,West
+C-0196,Customer_196,Corporate,USA,City_44,Ontario,68608,West
+C-0197,Customer_197,Corporate,USA,City_49,Florida,99081,East
+C-0198,Customer_198,Home Office,USA,City_75,Quebec,41897,South
+C-0199,Customer_199,Corporate,Canada,City_61,California,60961,West
+C-0200,Customer_200,Home Office,Canada,City_67,California,78703,Central
+C-0201,Customer_201,Consumer,USA,City_6,Texas,54757,South
+C-0202,Customer_202,Consumer,Canada,City_9,Florida,36917,South
+C-0203,Customer_203,Consumer,USA,City_6,California,32736,West
+C-0204,Customer_204,Consumer,USA,City_73,New York,37990,South
+C-0205,Customer_205,Home Office,USA,City_95,Florida,72551,South
+C-0206,Customer_206,Consumer,USA,City_32,New York,68161,West
+C-0207,Customer_207,Corporate,Canada,City_41,New York,89623,West
+C-0208,Customer_208,Corporate,Canada,City_76,California,32440,South
+C-0209,Customer_209,Corporate,Canada,City_8,Florida,45205,Central
+C-0210,Customer_210,Home Office,USA,City_72,Quebec,90811,East
+C-0211,Customer_211,Consumer,USA,City_50,Ontario,65103,South
+C-0212,Customer_212,Consumer,USA,City_92,California,80812,South
+C-0213,Customer_213,Consumer,Canada,City_62,California,51627,Central
+C-0214,Customer_214,Home Office,USA,City_84,Quebec,29008,South
+C-0215,Customer_215,Corporate,Canada,City_62,Florida,81274,South
+C-0216,Customer_216,Corporate,Canada,City_7,Florida,42402,East
+C-0217,Customer_217,Consumer,Canada,City_75,New York,63384,East
+C-0218,Customer_218,Corporate,Canada,City_84,Quebec,15793,East
+C-0219,Customer_219,Corporate,Canada,City_80,Quebec,15571,West
+C-0220,Customer_220,Home Office,Canada,City_4,Florida,26209,West
+C-0221,Customer_221,Home Office,USA,City_6,New York,53148,East
+C-0222,Customer_222,Home Office,USA,City_58,California,12224,East
+C-0223,Customer_223,Home Office,Canada,City_22,Texas,58695,West
+C-0224,Customer_224,Consumer,Canada,City_26,Ontario,42441,Central
+C-0225,Customer_225,Home Office,USA,City_3,California,49129,South
+C-0226,Customer_226,Corporate,Canada,City_41,Florida,72368,South
+C-0227,Customer_227,Consumer,Canada,City_60,Ontario,54760,East
+C-0228,Customer_228,Corporate,USA,City_14,Texas,33478,Central
+C-0229,Customer_229,Corporate,Canada,City_75,Texas,81854,West
+C-0230,Customer_230,Corporate,Canada,City_82,New York,95716,East
+C-0231,Customer_231,Home Office,Canada,City_12,Ontario,22180,Central
+C-0232,Customer_232,Home Office,USA,City_87,New York,25372,Central
+C-0233,Customer_233,Consumer,USA,City_12,California,39796,Central
+C-0234,Customer_234,Consumer,USA,City_13,Quebec,68272,West
+C-0235,Customer_235,Home Office,Canada,City_25,Quebec,99963,West
+C-0236,Customer_236,Corporate,Canada,City_45,Quebec,64040,South
+C-0237,Customer_237,Consumer,USA,City_19,Ontario,85357,South
+C-0238,Customer_238,Home Office,Canada,City_55,Quebec,81368,Central
+C-0239,Customer_239,Home Office,Canada,City_45,California,88356,Central
+C-0240,Customer_240,Home Office,Canada,City_8,New York,26211,West
+C-0241,Customer_241,Corporate,Canada,City_93,Ontario,15842,South
+C-0242,Customer_242,Home Office,Canada,City_53,New York,73115,Central
+C-0243,Customer_243,Home Office,USA,City_55,Ontario,76852,South
+C-0244,Customer_244,Home Office,Canada,City_32,New York,55968,South
+C-0245,Customer_245,Home Office,USA,City_51,Texas,27508,Central
+C-0246,Customer_246,Consumer,Canada,City_44,New York,32005,West
+C-0247,Customer_247,Consumer,USA,City_82,Quebec,64575,Central
+C-0248,Customer_248,Home Office,Canada,City_70,Texas,90742,Central
+C-0249,Customer_249,Corporate,USA,City_18,New York,28971,South
+C-0250,Customer_250,Consumer,Canada,City_83,Ontario,35599,Central
+C-0251,Customer_251,Home Office,USA,City_22,Ontario,97592,West
+C-0252,Customer_252,Consumer,Canada,City_37,Ontario,76914,Central
+C-0253,Customer_253,Consumer,USA,City_96,Florida,77055,West
+C-0254,Customer_254,Corporate,Canada,City_56,California,97697,West
+C-0255,Customer_255,Home Office,USA,City_59,Ontario,15355,South
+C-0256,Customer_256,Home Office,USA,City_3,Texas,64120,East
+C-0257,Customer_257,Corporate,Canada,City_28,Ontario,84619,East
+C-0258,Customer_258,Corporate,Canada,City_74,Florida,48342,South
+C-0259,Customer_259,Home Office,USA,City_35,Quebec,95992,Central
+C-0260,Customer_260,Home Office,Canada,City_61,Texas,88860,South
+C-0261,Customer_261,Corporate,USA,City_93,Florida,12257,West
+C-0262,Customer_262,Consumer,USA,City_54,Quebec,37364,East
+C-0263,Customer_263,Consumer,USA,City_63,Texas,34972,South
+C-0264,Customer_264,Corporate,Canada,City_79,New York,36654,Central
+C-0265,Customer_265,Consumer,USA,City_97,California,90769,South
+C-0266,Customer_266,Corporate,USA,City_7,California,91423,East
+C-0267,Customer_267,Consumer,Canada,City_76,Florida,39320,South
+C-0268,Customer_268,Consumer,Canada,City_49,Quebec,30808,South
+C-0269,Customer_269,Home Office,Canada,City_94,California,62389,East
+C-0270,Customer_270,Home Office,Canada,City_85,Quebec,44773,West
+C-0271,Customer_271,Consumer,USA,City_31,Quebec,61168,West
+C-0272,Customer_272,Consumer,USA,City_58,Florida,37747,East
+C-0273,Customer_273,Home Office,USA,City_61,Florida,86396,South
+C-0274,Customer_274,Home Office,USA,City_24,Florida,93692,East
+C-0275,Customer_275,Home Office,Canada,City_20,California,67505,West
+C-0276,Customer_276,Corporate,USA,City_37,Florida,95896,Central
+C-0277,Customer_277,Consumer,USA,City_4,California,28135,South
+C-0278,Customer_278,Home Office,Canada,City_92,Florida,57377,West
+C-0279,Customer_279,Consumer,USA,City_20,Ontario,33554,South
+C-0280,Customer_280,Corporate,USA,City_60,Quebec,72491,East
+C-0281,Customer_281,Corporate,USA,City_24,Florida,65621,Central
+C-0282,Customer_282,Home Office,USA,City_50,Texas,68283,East
+C-0283,Customer_283,Corporate,USA,City_49,Quebec,95140,Central
+C-0284,Customer_284,Consumer,USA,City_51,Quebec,26923,South
+C-0285,Customer_285,Home Office,Canada,City_96,Florida,57591,South
+C-0286,Customer_286,Consumer,Canada,City_36,New York,72261,East
+C-0287,Customer_287,Consumer,USA,City_98,Florida,64336,Central
+C-0288,Customer_288,Corporate,USA,City_66,Quebec,84083,Central
+C-0289,Customer_289,Corporate,Canada,City_79,Texas,70948,South
+C-0290,Customer_290,Corporate,USA,City_34,Quebec,43002,East
+C-0291,Customer_291,Corporate,USA,City_36,Texas,90098,Central
+C-0292,Customer_292,Corporate,USA,City_6,California,83016,South
+C-0293,Customer_293,Home Office,Canada,City_39,Ontario,36672,West
+C-0294,Customer_294,Consumer,USA,City_42,Quebec,14213,East
+C-0295,Customer_295,Consumer,Canada,City_58,Florida,20293,West
+C-0296,Customer_296,Consumer,USA,City_12,California,65860,East
+C-0297,Customer_297,Consumer,Canada,City_3,Ontario,72507,South
+C-0298,Customer_298,Corporate,Canada,City_18,Florida,67134,Central
+C-0299,Customer_299,Consumer,USA,City_40,New York,12100,Central
+C-0300,Customer_300,Home Office,Canada,City_21,Florida,71997,Central
+C-0301,Customer_301,Home Office,USA,City_15,Texas,38172,East
+C-0302,Customer_302,Consumer,Canada,City_97,Texas,30132,South
+C-0303,Customer_303,Consumer,USA,City_99,New York,28199,West
+C-0304,Customer_304,Home Office,USA,City_26,California,46609,South
+C-0305,Customer_305,Home Office,Canada,City_8,Ontario,52965,West
+C-0306,Customer_306,Corporate,USA,City_94,Florida,18016,East
+C-0307,Customer_307,Home Office,USA,City_87,Texas,49779,East
+C-0308,Customer_308,Corporate,Canada,City_42,California,41881,West
+C-0309,Customer_309,Corporate,USA,City_44,New York,92594,West
+C-0310,Customer_310,Corporate,USA,City_14,Quebec,34472,West
+C-0311,Customer_311,Corporate,Canada,City_78,Texas,61813,South
+C-0312,Customer_312,Corporate,Canada,City_2,New York,46021,West
+C-0313,Customer_313,Consumer,USA,City_37,Florida,64131,East
+C-0314,Customer_314,Home Office,USA,City_69,Ontario,34087,East
+C-0315,Customer_315,Corporate,Canada,City_38,Texas,22828,Central
+C-0316,Customer_316,Home Office,Canada,City_41,Texas,71610,West
+C-0317,Customer_317,Home Office,USA,City_62,Florida,11401,South
+C-0318,Customer_318,Corporate,Canada,City_60,Quebec,95179,South
+C-0319,Customer_319,Consumer,USA,City_14,California,25193,South
+C-0320,Customer_320,Corporate,USA,City_89,Ontario,54864,Central
+C-0321,Customer_321,Consumer,USA,City_84,Texas,30307,East
+C-0322,Customer_322,Home Office,USA,City_2,Ontario,29611,South
+C-0323,Customer_323,Consumer,USA,City_70,Texas,53791,East
+C-0324,Customer_324,Consumer,Canada,City_17,Ontario,21950,Central
+C-0325,Customer_325,Consumer,Canada,City_89,New York,86240,West
+C-0326,Customer_326,Home Office,Canada,City_28,Texas,87403,West
+C-0327,Customer_327,Home Office,Canada,City_66,Ontario,12745,West
+C-0328,Customer_328,Consumer,USA,City_35,California,65243,South
+C-0329,Customer_329,Consumer,USA,City_5,New York,13866,West
+C-0330,Customer_330,Corporate,USA,City_65,New York,42245,South
+C-0331,Customer_331,Consumer,USA,City_40,California,54724,Central
+C-0332,Customer_332,Corporate,Canada,City_76,Ontario,81354,Central
+C-0333,Customer_333,Consumer,USA,City_56,Florida,61374,South
+C-0334,Customer_334,Corporate,USA,City_36,California,40116,East
+C-0335,Customer_335,Home Office,Canada,City_45,Ontario,91029,West
+C-0336,Customer_336,Consumer,Canada,City_23,California,30447,West
+C-0337,Customer_337,Consumer,Canada,City_47,California,40431,West
+C-0338,Customer_338,Consumer,Canada,City_31,Texas,27908,South
+C-0339,Customer_339,Consumer,USA,City_11,Ontario,39336,Central
+C-0340,Customer_340,Corporate,USA,City_10,Florida,50992,West
+C-0341,Customer_341,Consumer,Canada,City_67,Texas,65350,Central
+C-0342,Customer_342,Home Office,USA,City_14,California,79561,West
+C-0343,Customer_343,Home Office,USA,City_80,Quebec,61955,West
+C-0344,Customer_344,Consumer,USA,City_74,California,71240,South
+C-0345,Customer_345,Home Office,Canada,City_93,California,30093,East
+C-0346,Customer_346,Consumer,USA,City_10,Ontario,16155,South
+C-0347,Customer_347,Consumer,Canada,City_76,Ontario,56607,West
+C-0348,Customer_348,Home Office,USA,City_94,Texas,43487,West
+C-0349,Customer_349,Consumer,USA,City_1,Florida,65668,East
+C-0350,Customer_350,Home Office,USA,City_5,Texas,30963,Central
+C-0351,Customer_351,Corporate,Canada,City_20,New York,60124,Central
+C-0352,Customer_352,Consumer,USA,City_8,California,62870,West
+C-0353,Customer_353,Corporate,Canada,City_43,Quebec,66547,Central
+C-0354,Customer_354,Home Office,Canada,City_76,California,74110,West
+C-0355,Customer_355,Corporate,Canada,City_1,California,63554,East
+C-0356,Customer_356,Corporate,USA,City_57,Texas,30936,East
+C-0357,Customer_357,Home Office,USA,City_64,Quebec,14426,West
+C-0358,Customer_358,Corporate,USA,City_84,Quebec,98839,East
+C-0359,Customer_359,Corporate,USA,City_28,Quebec,37606,South
+C-0360,Customer_360,Home Office,Canada,City_37,Texas,57832,South
+C-0361,Customer_361,Corporate,Canada,City_47,California,38151,East
+C-0362,Customer_362,Home Office,Canada,City_76,Texas,89303,West
+C-0363,Customer_363,Corporate,USA,City_37,Ontario,21308,West
+C-0364,Customer_364,Home Office,Canada,City_49,Ontario,72522,East
+C-0365,Customer_365,Home Office,USA,City_44,Texas,55671,Central
+C-0366,Customer_366,Corporate,Canada,City_56,Quebec,12204,South
+C-0367,Customer_367,Corporate,USA,City_28,California,97265,Central
+C-0368,Customer_368,Corporate,USA,City_79,Texas,41131,West
+C-0369,Customer_369,Consumer,Canada,City_6,Texas,62428,West
+C-0370,Customer_370,Consumer,Canada,City_61,Texas,43870,Central
+C-0371,Customer_371,Consumer,Canada,City_20,New York,59067,East
+C-0372,Customer_372,Home Office,Canada,City_78,Ontario,68585,Central
+C-0373,Customer_373,Corporate,USA,City_2,Quebec,31607,Central
+C-0374,Customer_374,Home Office,Canada,City_73,Florida,34968,South
+C-0375,Customer_375,Consumer,Canada,City_37,Quebec,21908,South
+C-0376,Customer_376,Corporate,Canada,City_20,Florida,36423,Central
+C-0377,Customer_377,Home Office,USA,City_26,New York,84707,Central
+C-0378,Customer_378,Corporate,USA,City_29,Texas,88257,West
+C-0379,Customer_379,Home Office,Canada,City_1,New York,71215,South
+C-0380,Customer_380,Corporate,USA,City_35,New York,65835,South
+C-0381,Customer_381,Consumer,Canada,City_70,California,59429,West
+C-0382,Customer_382,Consumer,USA,City_59,Ontario,92152,East
+C-0383,Customer_383,Corporate,USA,City_69,Florida,48458,South
+C-0384,Customer_384,Home Office,USA,City_33,Texas,56169,South
+C-0385,Customer_385,Consumer,USA,City_51,Florida,17659,East
+C-0386,Customer_386,Consumer,Canada,City_78,Quebec,70614,South
+C-0387,Customer_387,Consumer,Canada,City_12,Florida,87240,South
+C-0388,Customer_388,Corporate,Canada,City_20,Quebec,42793,East
+C-0389,Customer_389,Corporate,USA,City_53,Ontario,56473,East
+C-0390,Customer_390,Home Office,Canada,City_88,Quebec,99388,Central
+C-0391,Customer_391,Home Office,Canada,City_43,Florida,98330,West
+C-0392,Customer_392,Home Office,Canada,City_98,Florida,65751,West
+C-0393,Customer_393,Corporate,USA,City_89,Quebec,88915,East
+C-0394,Customer_394,Corporate,USA,City_50,New York,64254,East
+C-0395,Customer_395,Home Office,USA,City_29,Ontario,17006,South
+C-0396,Customer_396,Home Office,Canada,City_57,California,84218,Central
+C-0397,Customer_397,Corporate,Canada,City_39,Texas,75344,Central
+C-0398,Customer_398,Home Office,Canada,City_95,Florida,43840,East
+C-0399,Customer_399,Consumer,USA,City_56,Texas,42430,South
+C-0400,Customer_400,Corporate,USA,City_43,California,33091,South
+C-0401,Customer_401,Home Office,Canada,City_50,Texas,42983,West
+C-0402,Customer_402,Corporate,USA,City_23,California,33989,West
+C-0403,Customer_403,Consumer,USA,City_44,Quebec,85451,South
+C-0404,Customer_404,Corporate,USA,City_38,New York,28990,West
+C-0405,Customer_405,Corporate,USA,City_84,Florida,90360,East
+C-0406,Customer_406,Corporate,Canada,City_23,California,46081,South
+C-0407,Customer_407,Corporate,USA,City_45,Texas,21033,West
+C-0408,Customer_408,Consumer,USA,City_52,Florida,26241,Central
+C-0409,Customer_409,Corporate,USA,City_80,New York,15939,South
+C-0410,Customer_410,Corporate,USA,City_50,Quebec,57562,South
+C-0411,Customer_411,Home Office,Canada,City_8,Florida,45063,Central
+C-0412,Customer_412,Corporate,Canada,City_85,California,86721,East
+C-0413,Customer_413,Home Office,USA,City_1,New York,37045,Central
+C-0414,Customer_414,Consumer,USA,City_8,Texas,54769,South
+C-0415,Customer_415,Consumer,USA,City_29,New York,57118,East
+C-0416,Customer_416,Consumer,USA,City_96,New York,94703,West
+C-0417,Customer_417,Consumer,USA,City_5,Ontario,31625,West
+C-0418,Customer_418,Home Office,USA,City_86,New York,37076,West
+C-0419,Customer_419,Corporate,Canada,City_47,New York,74805,South
+C-0420,Customer_420,Consumer,USA,City_34,Florida,54605,Central
+C-0421,Customer_421,Corporate,Canada,City_65,Texas,94565,East
+C-0422,Customer_422,Home Office,Canada,City_55,Florida,98509,West
+C-0423,Customer_423,Home Office,USA,City_90,Florida,49121,East
+C-0424,Customer_424,Home Office,Canada,City_43,California,75101,South
+C-0425,Customer_425,Consumer,Canada,City_74,Florida,41433,West
+C-0426,Customer_426,Corporate,Canada,City_30,Ontario,53309,South
+C-0427,Customer_427,Corporate,Canada,City_82,Ontario,77468,Central
+C-0428,Customer_428,Corporate,Canada,City_17,California,54254,South
+C-0429,Customer_429,Home Office,Canada,City_26,Quebec,77293,South
+C-0430,Customer_430,Consumer,USA,City_8,Texas,47853,Central
+C-0431,Customer_431,Home Office,Canada,City_47,Texas,48405,East
+C-0432,Customer_432,Home Office,Canada,City_76,Florida,76652,Central
+C-0433,Customer_433,Corporate,Canada,City_91,Florida,53527,Central
+C-0434,Customer_434,Home Office,USA,City_72,Quebec,87227,South
+C-0435,Customer_435,Corporate,Canada,City_89,Florida,10492,East
+C-0436,Customer_436,Consumer,USA,City_46,Texas,18811,West
+C-0437,Customer_437,Corporate,Canada,City_68,New York,34272,Central
+C-0438,Customer_438,Consumer,USA,City_33,Ontario,82010,East
+C-0439,Customer_439,Corporate,USA,City_1,New York,57153,Central
+C-0440,Customer_440,Home Office,Canada,City_19,New York,64110,Central
+C-0441,Customer_441,Home Office,Canada,City_31,Texas,23979,Central
+C-0442,Customer_442,Consumer,USA,City_80,New York,38328,Central
+C-0443,Customer_443,Consumer,Canada,City_14,Quebec,22867,South
+C-0444,Customer_444,Consumer,USA,City_53,California,69234,East
+C-0445,Customer_445,Corporate,USA,City_48,Florida,35851,East
+C-0446,Customer_446,Corporate,USA,City_69,California,41279,East
+C-0447,Customer_447,Consumer,USA,City_90,Ontario,83402,Central
+C-0448,Customer_448,Home Office,USA,City_62,Florida,25449,South
+C-0449,Customer_449,Corporate,Canada,City_92,New York,86221,Central
+C-0450,Customer_450,Corporate,USA,City_66,Ontario,99080,Central
+C-0451,Customer_451,Corporate,USA,City_64,Florida,15451,East
+C-0452,Customer_452,Consumer,Canada,City_70,Quebec,97178,Central
+C-0453,Customer_453,Consumer,USA,City_63,Quebec,51316,West
+C-0454,Customer_454,Consumer,Canada,City_73,Quebec,73064,Central
+C-0455,Customer_455,Consumer,Canada,City_33,Quebec,73761,West
+C-0456,Customer_456,Consumer,Canada,City_41,New York,48870,Central
+C-0457,Customer_457,Home Office,USA,City_89,California,40873,South
+C-0458,Customer_458,Home Office,USA,City_48,Florida,68627,South
+C-0459,Customer_459,Consumer,USA,City_13,New York,76155,East
+C-0460,Customer_460,Corporate,Canada,City_73,Quebec,35372,Central
+C-0461,Customer_461,Consumer,USA,City_77,California,13642,West
+C-0462,Customer_462,Home Office,Canada,City_31,Ontario,38001,West
+C-0463,Customer_463,Home Office,USA,City_75,Ontario,44064,Central
+C-0464,Customer_464,Corporate,Canada,City_68,Ontario,24122,West
+C-0465,Customer_465,Home Office,USA,City_98,Quebec,34820,South
+C-0466,Customer_466,Consumer,USA,City_4,Ontario,78431,West
+C-0467,Customer_467,Corporate,USA,City_19,Texas,65745,East
+C-0468,Customer_468,Consumer,Canada,City_70,Florida,60081,South
+C-0469,Customer_469,Consumer,Canada,City_98,Florida,80902,South
+C-0470,Customer_470,Corporate,USA,City_82,Quebec,18711,South
+C-0471,Customer_471,Consumer,USA,City_13,Texas,95132,Central
+C-0472,Customer_472,Home Office,Canada,City_23,New York,28793,Central
+C-0473,Customer_473,Consumer,Canada,City_83,New York,18199,South
+C-0474,Customer_474,Corporate,Canada,City_75,Ontario,86253,Central
+C-0475,Customer_475,Corporate,USA,City_1,California,46191,West
+C-0476,Customer_476,Corporate,Canada,City_88,New York,20211,Central
+C-0477,Customer_477,Consumer,USA,City_54,California,73069,Central
+C-0478,Customer_478,Corporate,Canada,City_71,Florida,98896,South
+C-0479,Customer_479,Corporate,USA,City_89,California,66746,East
+C-0480,Customer_480,Consumer,Canada,City_85,Florida,31542,East
+C-0481,Customer_481,Home Office,Canada,City_15,Texas,41312,East
+C-0482,Customer_482,Consumer,Canada,City_65,Texas,55242,West
+C-0483,Customer_483,Corporate,Canada,City_76,Quebec,97893,Central
+C-0484,Customer_484,Corporate,Canada,City_71,Quebec,65388,East
+C-0485,Customer_485,Consumer,USA,City_15,Ontario,37691,South
+C-0486,Customer_486,Home Office,Canada,City_21,New York,87960,East
+C-0487,Customer_487,Corporate,Canada,City_19,Ontario,94388,East
+C-0488,Customer_488,Corporate,Canada,City_60,Florida,32601,Central
+C-0489,Customer_489,Corporate,USA,City_93,Ontario,28020,Central
+C-0490,Customer_490,Consumer,Canada,City_89,California,18155,Central
+C-0491,Customer_491,Corporate,USA,City_33,Florida,79119,West
+C-0492,Customer_492,Home Office,Canada,City_49,Quebec,91051,West
+C-0493,Customer_493,Corporate,Canada,City_96,Texas,46777,East
+C-0494,Customer_494,Corporate,USA,City_35,Quebec,29710,Central
+C-0495,Customer_495,Home Office,Canada,City_44,New York,34532,East
+C-0496,Customer_496,Corporate,USA,City_90,Florida,28601,South
+C-0497,Customer_497,Consumer,USA,City_11,Florida,73227,South
+C-0498,Customer_498,Consumer,Canada,City_99,California,14967,Central
+C-0499,Customer_499,Consumer,USA,City_72,New York,94289,Central
+C-0500,Customer_500,Home Office,Canada,City_78,Texas,30022,South
+C-0501,Customer_501,Corporate,Canada,City_74,Florida,53463,Central
+C-0502,Customer_502,Consumer,USA,City_66,Florida,84671,West
+C-0503,Customer_503,Home Office,USA,City_46,California,15722,West
+C-0504,Customer_504,Corporate,USA,City_9,Ontario,37413,Central
+C-0505,Customer_505,Home Office,USA,City_3,Texas,91050,South
+C-0506,Customer_506,Consumer,Canada,City_85,Quebec,95867,East
+C-0507,Customer_507,Consumer,Canada,City_26,New York,93596,Central
+C-0508,Customer_508,Consumer,USA,City_72,Florida,76732,Central
+C-0509,Customer_509,Home Office,Canada,City_48,Florida,22297,East
+C-0510,Customer_510,Home Office,Canada,City_66,Quebec,78323,Central
+C-0511,Customer_511,Consumer,Canada,City_70,Texas,33816,East
+C-0512,Customer_512,Home Office,Canada,City_28,Ontario,50695,South
+C-0513,Customer_513,Consumer,USA,City_93,Florida,29702,West
+C-0514,Customer_514,Consumer,USA,City_26,Texas,35242,South
+C-0515,Customer_515,Corporate,Canada,City_25,Quebec,65841,West
+C-0516,Customer_516,Home Office,USA,City_12,California,77712,East
+C-0517,Customer_517,Consumer,USA,City_5,Ontario,95663,West
+C-0518,Customer_518,Consumer,USA,City_98,New York,63574,South
+C-0519,Customer_519,Home Office,Canada,City_48,Florida,95744,West
+C-0520,Customer_520,Corporate,Canada,City_37,Texas,38482,East
+C-0521,Customer_521,Corporate,Canada,City_79,California,19171,West
+C-0522,Customer_522,Consumer,USA,City_44,New York,13696,Central
+C-0523,Customer_523,Home Office,Canada,City_15,Texas,30058,South
+C-0524,Customer_524,Corporate,Canada,City_43,Texas,30313,Central
+C-0525,Customer_525,Home Office,USA,City_48,New York,29149,East
+C-0526,Customer_526,Home Office,Canada,City_87,California,63521,West
+C-0527,Customer_527,Consumer,Canada,City_70,Quebec,55740,Central
+C-0528,Customer_528,Corporate,USA,City_46,California,14956,Central
+C-0529,Customer_529,Consumer,USA,City_43,Ontario,85731,West
+C-0530,Customer_530,Corporate,USA,City_21,Florida,92612,West
+C-0531,Customer_531,Corporate,Canada,City_23,New York,76641,South
+C-0532,Customer_532,Corporate,Canada,City_80,Quebec,73811,Central
+C-0533,Customer_533,Corporate,Canada,City_47,New York,62160,Central
+C-0534,Customer_534,Corporate,USA,City_15,New York,61313,East
+C-0535,Customer_535,Home Office,USA,City_25,California,73232,South
+C-0536,Customer_536,Consumer,Canada,City_36,Florida,25417,East
+C-0537,Customer_537,Home Office,Canada,City_75,Ontario,34729,Central
+C-0538,Customer_538,Corporate,USA,City_51,Texas,40099,East
+C-0539,Customer_539,Consumer,USA,City_15,Texas,39961,Central
+C-0540,Customer_540,Corporate,USA,City_68,New York,22602,Central
+C-0541,Customer_541,Consumer,USA,City_21,Florida,19256,East
+C-0542,Customer_542,Home Office,Canada,City_13,Quebec,96120,East
+C-0543,Customer_543,Consumer,USA,City_86,California,44681,West
+C-0544,Customer_544,Consumer,Canada,City_19,Florida,97440,West
+C-0545,Customer_545,Consumer,Canada,City_34,Florida,74789,West
+C-0546,Customer_546,Consumer,Canada,City_78,California,53361,Central
+C-0547,Customer_547,Consumer,USA,City_68,New York,74503,East
+C-0548,Customer_548,Corporate,USA,City_52,Florida,44540,South
+C-0549,Customer_549,Consumer,USA,City_27,Texas,36536,Central
+C-0550,Customer_550,Consumer,USA,City_29,California,94700,South
+C-0551,Customer_551,Home Office,Canada,City_28,Quebec,73043,East
+C-0552,Customer_552,Consumer,USA,City_35,Ontario,88532,Central
+C-0553,Customer_553,Home Office,USA,City_8,New York,66575,South
+C-0554,Customer_554,Corporate,Canada,City_16,California,12871,South
+C-0555,Customer_555,Consumer,USA,City_36,Ontario,56002,West
+C-0556,Customer_556,Home Office,Canada,City_30,Ontario,59812,West
+C-0557,Customer_557,Home Office,Canada,City_18,Quebec,32626,West
+C-0558,Customer_558,Corporate,Canada,City_2,Florida,69979,Central
+C-0559,Customer_559,Consumer,Canada,City_49,Quebec,86057,East
+C-0560,Customer_560,Consumer,Canada,City_77,Florida,76668,East
+C-0561,Customer_561,Home Office,Canada,City_4,Florida,90070,West
+C-0562,Customer_562,Consumer,Canada,City_90,California,99390,West
+C-0563,Customer_563,Home Office,Canada,City_89,California,52998,West
+C-0564,Customer_564,Consumer,USA,City_94,New York,73814,South
+C-0565,Customer_565,Home Office,USA,City_75,Florida,55607,West
+C-0566,Customer_566,Consumer,USA,City_7,Ontario,17812,South
+C-0567,Customer_567,Corporate,USA,City_95,Texas,71844,East
+C-0568,Customer_568,Consumer,Canada,City_74,New York,80093,Central
+C-0569,Customer_569,Consumer,USA,City_39,California,12179,Central
+C-0570,Customer_570,Corporate,Canada,City_13,Quebec,53798,Central
+C-0571,Customer_571,Consumer,USA,City_31,New York,84601,Central
+C-0572,Customer_572,Corporate,USA,City_71,New York,18275,South
+C-0573,Customer_573,Consumer,USA,City_63,New York,60574,South
+C-0574,Customer_574,Home Office,Canada,City_56,New York,57857,West
+C-0575,Customer_575,Home Office,USA,City_42,Texas,30700,South
+C-0576,Customer_576,Consumer,Canada,City_61,Quebec,49464,West
+C-0577,Customer_577,Consumer,Canada,City_42,Quebec,52351,West
+C-0578,Customer_578,Consumer,USA,City_56,Quebec,92534,Central
+C-0579,Customer_579,Home Office,USA,City_36,Florida,23869,South
+C-0580,Customer_580,Consumer,USA,City_84,Ontario,70315,South
+C-0581,Customer_581,Home Office,Canada,City_68,Quebec,30954,West
+C-0582,Customer_582,Corporate,USA,City_7,New York,41555,West
+C-0583,Customer_583,Home Office,Canada,City_54,New York,73353,East
+C-0584,Customer_584,Home Office,Canada,City_1,Quebec,92190,East
+C-0585,Customer_585,Corporate,USA,City_44,Quebec,55026,West
+C-0586,Customer_586,Home Office,USA,City_45,New York,56976,East
+C-0587,Customer_587,Consumer,Canada,City_47,Florida,90578,East
+C-0588,Customer_588,Consumer,Canada,City_13,California,55095,West
+C-0589,Customer_589,Home Office,Canada,City_22,California,24270,West
+C-0590,Customer_590,Consumer,USA,City_21,Quebec,40908,South
+C-0591,Customer_591,Home Office,Canada,City_86,Texas,25523,West
+C-0592,Customer_592,Consumer,USA,City_92,Quebec,72433,West
+C-0593,Customer_593,Consumer,Canada,City_9,Quebec,57068,Central
+C-0594,Customer_594,Home Office,Canada,City_26,California,29991,South
+C-0595,Customer_595,Consumer,USA,City_9,New York,20775,South
+C-0596,Customer_596,Home Office,Canada,City_15,Quebec,87801,South
+C-0597,Customer_597,Consumer,USA,City_10,New York,94995,Central
+C-0598,Customer_598,Consumer,USA,City_88,New York,71250,West
+C-0599,Customer_599,Corporate,Canada,City_42,Texas,26673,South
+C-0600,Customer_600,Corporate,USA,City_72,New York,37056,South
+C-0601,Customer_601,Home Office,USA,City_24,California,16614,East
+C-0602,Customer_602,Corporate,Canada,City_80,Florida,17415,South
+C-0603,Customer_603,Home Office,USA,City_49,Florida,98691,West
+C-0604,Customer_604,Corporate,USA,City_26,Ontario,53884,West
+C-0605,Customer_605,Consumer,USA,City_91,Quebec,26964,East
+C-0606,Customer_606,Home Office,Canada,City_37,California,47726,South
+C-0607,Customer_607,Home Office,USA,City_68,New York,47044,South
+C-0608,Customer_608,Consumer,Canada,City_50,Florida,67149,South
+C-0609,Customer_609,Home Office,Canada,City_24,California,47544,Central
+C-0610,Customer_610,Home Office,USA,City_19,Florida,59976,South
+C-0611,Customer_611,Corporate,USA,City_60,New York,42252,West
+C-0612,Customer_612,Home Office,USA,City_39,Florida,13832,West
+C-0613,Customer_613,Consumer,Canada,City_74,Quebec,90437,Central
+C-0614,Customer_614,Corporate,USA,City_89,Quebec,44148,Central
+C-0615,Customer_615,Corporate,USA,City_18,Ontario,71240,South
+C-0616,Customer_616,Consumer,USA,City_19,Ontario,98454,East
+C-0617,Customer_617,Consumer,USA,City_36,Florida,95076,Central
+C-0618,Customer_618,Corporate,USA,City_74,California,87116,Central
+C-0619,Customer_619,Home Office,Canada,City_97,Quebec,63459,South
+C-0620,Customer_620,Corporate,Canada,City_55,California,48402,South
+C-0621,Customer_621,Consumer,USA,City_69,California,67727,Central
+C-0622,Customer_622,Corporate,USA,City_47,Florida,48578,East
+C-0623,Customer_623,Consumer,USA,City_49,California,32318,Central
+C-0624,Customer_624,Corporate,USA,City_99,Quebec,85715,South
+C-0625,Customer_625,Home Office,Canada,City_98,New York,87787,South
+C-0626,Customer_626,Corporate,USA,City_33,Ontario,95029,Central
+C-0627,Customer_627,Corporate,Canada,City_21,New York,30466,East
+C-0628,Customer_628,Consumer,Canada,City_81,California,55475,Central
+C-0629,Customer_629,Consumer,USA,City_22,New York,70142,Central
+C-0630,Customer_630,Consumer,Canada,City_48,Quebec,95160,South
+C-0631,Customer_631,Corporate,Canada,City_37,Quebec,36564,East
+C-0632,Customer_632,Home Office,Canada,City_15,California,32412,West
+C-0633,Customer_633,Consumer,Canada,City_35,Florida,61001,East
+C-0634,Customer_634,Consumer,USA,City_92,New York,67649,Central
+C-0635,Customer_635,Corporate,USA,City_71,Florida,70957,Central
+C-0636,Customer_636,Consumer,Canada,City_32,Florida,45517,Central
+C-0637,Customer_637,Home Office,USA,City_11,Texas,23156,East
+C-0638,Customer_638,Home Office,USA,City_10,California,33064,South
+C-0639,Customer_639,Consumer,USA,City_73,Ontario,35711,Central
+C-0640,Customer_640,Consumer,USA,City_78,Quebec,40106,Central
+C-0641,Customer_641,Corporate,USA,City_77,Quebec,75458,East
+C-0642,Customer_642,Home Office,Canada,City_57,California,26589,West
+C-0643,Customer_643,Home Office,USA,City_25,Ontario,99272,West
+C-0644,Customer_644,Consumer,USA,City_2,Quebec,96511,South
+C-0645,Customer_645,Corporate,USA,City_64,California,17214,South
+C-0646,Customer_646,Home Office,USA,City_35,Quebec,95731,Central
+C-0647,Customer_647,Home Office,Canada,City_7,Florida,37127,East
+C-0648,Customer_648,Corporate,Canada,City_85,New York,15141,Central
+C-0649,Customer_649,Corporate,Canada,City_18,New York,38884,South
+C-0650,Customer_650,Home Office,Canada,City_67,Quebec,12708,East
+C-0651,Customer_651,Home Office,USA,City_42,Texas,28375,East
+C-0652,Customer_652,Corporate,Canada,City_39,Ontario,25088,South
+C-0653,Customer_653,Home Office,USA,City_41,Ontario,67615,West
+C-0654,Customer_654,Consumer,USA,City_75,Ontario,55046,West
+C-0655,Customer_655,Consumer,USA,City_24,Florida,20014,East
+C-0656,Customer_656,Corporate,USA,City_60,Ontario,74425,Central
+C-0657,Customer_657,Corporate,USA,City_46,New York,13273,West
+C-0658,Customer_658,Corporate,Canada,City_19,Florida,57135,Central
+C-0659,Customer_659,Consumer,Canada,City_68,California,40881,West
+C-0660,Customer_660,Home Office,Canada,City_90,Ontario,88077,West
+C-0661,Customer_661,Consumer,Canada,City_42,Ontario,18712,Central
+C-0662,Customer_662,Home Office,USA,City_32,California,84704,South
+C-0663,Customer_663,Consumer,Canada,City_39,Ontario,62874,West
+C-0664,Customer_664,Home Office,USA,City_36,California,79087,West
+C-0665,Customer_665,Consumer,Canada,City_97,Florida,22297,Central
+C-0666,Customer_666,Corporate,USA,City_36,New York,37128,South
+C-0667,Customer_667,Consumer,USA,City_3,California,78368,West
+C-0668,Customer_668,Home Office,Canada,City_73,Texas,97599,West
+C-0669,Customer_669,Consumer,USA,City_8,California,98499,South
+C-0670,Customer_670,Consumer,USA,City_97,Ontario,88958,West
+C-0671,Customer_671,Consumer,Canada,City_70,Florida,42920,South
+C-0672,Customer_672,Corporate,USA,City_41,Quebec,21156,South
+C-0673,Customer_673,Consumer,Canada,City_68,Florida,21108,Central
+C-0674,Customer_674,Corporate,Canada,City_13,Quebec,41845,East
+C-0675,Customer_675,Corporate,Canada,City_49,California,12800,South
+C-0676,Customer_676,Consumer,USA,City_60,New York,52712,Central
+C-0677,Customer_677,Consumer,USA,City_2,Texas,12610,East
+C-0678,Customer_678,Consumer,USA,City_60,Florida,87603,West
+C-0679,Customer_679,Home Office,Canada,City_5,Ontario,43872,East
+C-0680,Customer_680,Consumer,USA,City_44,Quebec,20728,South
+C-0681,Customer_681,Corporate,Canada,City_27,Ontario,30583,South
+C-0682,Customer_682,Consumer,Canada,City_32,New York,95774,South
+C-0683,Customer_683,Home Office,USA,City_21,Quebec,17263,South
+C-0684,Customer_684,Consumer,Canada,City_8,Florida,77450,South
+C-0685,Customer_685,Home Office,USA,City_72,California,99285,Central
+C-0686,Customer_686,Home Office,USA,City_50,Ontario,29456,South
+C-0687,Customer_687,Consumer,USA,City_67,New York,75942,Central
+C-0688,Customer_688,Corporate,USA,City_44,Florida,23689,West
+C-0689,Customer_689,Home Office,USA,City_58,Florida,42934,South
+C-0690,Customer_690,Consumer,Canada,City_3,Florida,43276,South
+C-0691,Customer_691,Consumer,Canada,City_86,Florida,29873,East
+C-0692,Customer_692,Corporate,Canada,City_70,Quebec,23050,West
+C-0693,Customer_693,Home Office,USA,City_2,Florida,76216,South
+C-0694,Customer_694,Home Office,USA,City_87,Ontario,94444,South
+C-0695,Customer_695,Consumer,USA,City_44,New York,94040,West
+C-0696,Customer_696,Consumer,Canada,City_2,Quebec,31644,Central
+C-0697,Customer_697,Corporate,USA,City_81,Florida,72021,South
+C-0698,Customer_698,Corporate,Canada,City_35,Texas,47125,East
+C-0699,Customer_699,Home Office,Canada,City_98,Texas,76899,South
+C-0700,Customer_700,Home Office,USA,City_87,New York,52291,East
+C-0701,Customer_701,Consumer,USA,City_30,California,45060,East
+C-0702,Customer_702,Home Office,Canada,City_8,California,11538,South
+C-0703,Customer_703,Corporate,USA,City_22,Quebec,46176,South
+C-0704,Customer_704,Corporate,Canada,City_44,Quebec,51520,East
+C-0705,Customer_705,Consumer,USA,City_58,Quebec,35675,West
+C-0706,Customer_706,Corporate,USA,City_36,California,28287,West
+C-0707,Customer_707,Corporate,Canada,City_69,Texas,10174,South
+C-0708,Customer_708,Corporate,USA,City_77,California,44998,Central
+C-0709,Customer_709,Corporate,Canada,City_93,Ontario,63312,West
+C-0710,Customer_710,Consumer,USA,City_31,Florida,22112,South
+C-0711,Customer_711,Consumer,Canada,City_47,Quebec,85225,West
+C-0712,Customer_712,Home Office,Canada,City_55,Texas,54814,Central
+C-0713,Customer_713,Corporate,USA,City_80,New York,95091,South
+C-0714,Customer_714,Home Office,Canada,City_62,New York,60719,Central
+C-0715,Customer_715,Consumer,USA,City_30,Florida,43919,South
+C-0716,Customer_716,Consumer,USA,City_55,Texas,83155,Central
+C-0717,Customer_717,Consumer,USA,City_16,California,81569,West
+C-0718,Customer_718,Consumer,Canada,City_12,California,51328,West
+C-0719,Customer_719,Consumer,Canada,City_17,Ontario,80482,Central
+C-0720,Customer_720,Consumer,USA,City_16,Ontario,34618,Central
+C-0721,Customer_721,Consumer,USA,City_12,California,44675,Central
+C-0722,Customer_722,Corporate,Canada,City_8,New York,28919,South
+C-0723,Customer_723,Home Office,USA,City_84,Quebec,14173,West
+C-0724,Customer_724,Consumer,USA,City_3,New York,36400,South
+C-0725,Customer_725,Corporate,Canada,City_16,Ontario,60445,West
+C-0726,Customer_726,Corporate,USA,City_30,Florida,80305,East
+C-0727,Customer_727,Home Office,Canada,City_23,California,47564,South
+C-0728,Customer_728,Consumer,USA,City_92,Ontario,55814,West
+C-0729,Customer_729,Home Office,Canada,City_5,Ontario,89747,West
+C-0730,Customer_730,Consumer,USA,City_84,Quebec,98791,South
+C-0731,Customer_731,Corporate,USA,City_65,California,37962,South
+C-0732,Customer_732,Corporate,Canada,City_30,Quebec,94892,West
+C-0733,Customer_733,Corporate,USA,City_21,California,95842,South
+C-0734,Customer_734,Corporate,Canada,City_84,Quebec,80533,Central
+C-0735,Customer_735,Home Office,USA,City_70,New York,66184,South
+C-0736,Customer_736,Consumer,Canada,City_22,Florida,92912,South
+C-0737,Customer_737,Consumer,Canada,City_82,Florida,20578,South
+C-0738,Customer_738,Home Office,Canada,City_72,California,28624,West
+C-0739,Customer_739,Consumer,Canada,City_32,Texas,49194,Central
+C-0740,Customer_740,Corporate,USA,City_33,Ontario,10389,East
+C-0741,Customer_741,Consumer,USA,City_16,Ontario,77391,East
+C-0742,Customer_742,Corporate,Canada,City_76,California,23794,Central
+C-0743,Customer_743,Home Office,Canada,City_38,Quebec,68002,Central
+C-0744,Customer_744,Consumer,Canada,City_98,Texas,45531,Central
+C-0745,Customer_745,Home Office,USA,City_14,New York,62815,West
+C-0746,Customer_746,Consumer,USA,City_36,Quebec,14986,East
+C-0747,Customer_747,Corporate,USA,City_97,Quebec,42298,Central
+C-0748,Customer_748,Home Office,USA,City_23,California,11481,West
+C-0749,Customer_749,Consumer,Canada,City_66,California,66408,East
+C-0750,Customer_750,Corporate,Canada,City_85,Ontario,79267,South
+C-0751,Customer_751,Home Office,Canada,City_2,California,26835,West
+C-0752,Customer_752,Home Office,USA,City_91,California,37798,East
+C-0753,Customer_753,Consumer,USA,City_73,California,74887,West
+C-0754,Customer_754,Consumer,USA,City_65,Ontario,29477,East
+C-0755,Customer_755,Consumer,Canada,City_75,New York,27266,East
+C-0756,Customer_756,Corporate,Canada,City_67,New York,96328,South
+C-0757,Customer_757,Consumer,USA,City_52,California,95988,West
+C-0758,Customer_758,Home Office,Canada,City_62,Ontario,53526,Central
+C-0759,Customer_759,Home Office,USA,City_23,New York,21889,South
+C-0760,Customer_760,Consumer,USA,City_26,Quebec,34335,South
+C-0761,Customer_761,Consumer,Canada,City_68,New York,21254,East
+C-0762,Customer_762,Home Office,USA,City_82,New York,96610,Central
+C-0763,Customer_763,Corporate,Canada,City_55,Ontario,21442,West
+C-0764,Customer_764,Consumer,USA,City_6,Quebec,56289,Central
+C-0765,Customer_765,Consumer,Canada,City_35,Ontario,63747,Central
+C-0766,Customer_766,Home Office,Canada,City_22,California,47327,Central
+C-0767,Customer_767,Consumer,Canada,City_43,Florida,26199,Central
+C-0768,Customer_768,Corporate,USA,City_15,New York,82827,Central
+C-0769,Customer_769,Home Office,USA,City_86,Florida,10112,East
+C-0770,Customer_770,Consumer,Canada,City_60,Ontario,97051,East
+C-0771,Customer_771,Home Office,Canada,City_12,Ontario,29581,South
+C-0772,Customer_772,Consumer,USA,City_49,Ontario,69722,East
+C-0773,Customer_773,Consumer,USA,City_42,Florida,26523,South
+C-0774,Customer_774,Consumer,USA,City_38,Ontario,76960,South
+C-0775,Customer_775,Corporate,Canada,City_82,California,29552,West
+C-0776,Customer_776,Corporate,USA,City_45,Ontario,20808,Central
+C-0777,Customer_777,Home Office,USA,City_35,Texas,82525,East
+C-0778,Customer_778,Consumer,Canada,City_30,Florida,33620,West
+C-0779,Customer_779,Consumer,USA,City_88,Texas,10887,East
+C-0780,Customer_780,Corporate,USA,City_30,Ontario,41802,South
+C-0781,Customer_781,Consumer,USA,City_78,California,95024,East
+C-0782,Customer_782,Corporate,Canada,City_6,New York,91938,Central
+C-0783,Customer_783,Consumer,Canada,City_67,Quebec,96741,South
+C-0784,Customer_784,Home Office,Canada,City_80,Quebec,36049,South
+C-0785,Customer_785,Consumer,Canada,City_7,Ontario,87789,West
+C-0786,Customer_786,Consumer,Canada,City_52,California,94526,Central
+C-0787,Customer_787,Corporate,Canada,City_14,Florida,17846,South
+C-0788,Customer_788,Consumer,Canada,City_73,Texas,56220,Central
+C-0789,Customer_789,Consumer,USA,City_15,Texas,56163,East
+C-0790,Customer_790,Corporate,USA,City_21,Texas,13765,Central
+C-0791,Customer_791,Home Office,Canada,City_35,Florida,91486,South
+C-0792,Customer_792,Home Office,USA,City_66,Quebec,55270,West
+C-0793,Customer_793,Corporate,USA,City_91,California,85277,South
+C-0794,Customer_794,Corporate,Canada,City_2,Florida,98278,Central
+C-0795,Customer_795,Corporate,USA,City_35,Texas,32931,Central
+C-0796,Customer_796,Corporate,USA,City_82,Ontario,99116,South
+C-0797,Customer_797,Corporate,USA,City_78,New York,65633,Central
+C-0798,Customer_798,Home Office,USA,City_20,Florida,90702,East
+C-0799,Customer_799,Home Office,USA,City_82,Florida,61913,South
+C-0800,Customer_800,Corporate,Canada,City_10,California,35991,West
+C-0801,Customer_801,Consumer,Canada,City_25,California,64845,South
+C-0802,Customer_802,Corporate,Canada,City_66,Florida,65312,East
+C-0803,Customer_803,Consumer,USA,City_25,Texas,20561,East
+C-0804,Customer_804,Corporate,Canada,City_54,New York,26901,East
+C-0805,Customer_805,Corporate,USA,City_33,California,72875,East
+C-0806,Customer_806,Home Office,USA,City_36,Texas,35917,East
+C-0807,Customer_807,Consumer,USA,City_95,Ontario,72120,West
+C-0808,Customer_808,Consumer,USA,City_14,California,11988,Central
+C-0809,Customer_809,Home Office,Canada,City_65,Texas,24256,East
+C-0810,Customer_810,Home Office,Canada,City_80,Texas,97728,East
+C-0811,Customer_811,Home Office,USA,City_54,New York,38230,South
+C-0812,Customer_812,Home Office,Canada,City_52,New York,69778,West
+C-0813,Customer_813,Consumer,USA,City_3,Ontario,55833,West
+C-0814,Customer_814,Consumer,Canada,City_99,Texas,32625,Central
+C-0815,Customer_815,Corporate,Canada,City_41,Quebec,42088,West
+C-0816,Customer_816,Corporate,USA,City_6,Texas,89650,South
+C-0817,Customer_817,Home Office,Canada,City_25,New York,51167,South
+C-0818,Customer_818,Home Office,USA,City_13,Quebec,81291,Central
+C-0819,Customer_819,Home Office,Canada,City_98,California,75303,South
+C-0820,Customer_820,Corporate,USA,City_8,California,86361,East
+C-0821,Customer_821,Corporate,USA,City_21,Florida,98229,East
+C-0822,Customer_822,Corporate,Canada,City_98,New York,14117,South
+C-0823,Customer_823,Corporate,Canada,City_68,Florida,70710,Central
+C-0824,Customer_824,Corporate,USA,City_25,Quebec,77054,West
+C-0825,Customer_825,Corporate,Canada,City_79,New York,40949,Central
+C-0826,Customer_826,Corporate,Canada,City_68,Ontario,32547,West
+C-0827,Customer_827,Home Office,USA,City_45,Texas,91882,South
+C-0828,Customer_828,Home Office,USA,City_60,Ontario,78136,South
+C-0829,Customer_829,Home Office,Canada,City_12,Quebec,74619,East
+C-0830,Customer_830,Home Office,USA,City_32,New York,71842,West
+C-0831,Customer_831,Corporate,USA,City_96,Quebec,36990,Central
+C-0832,Customer_832,Consumer,USA,City_92,Texas,26193,South
+C-0833,Customer_833,Corporate,Canada,City_13,California,40109,Central
+C-0834,Customer_834,Consumer,Canada,City_31,California,29233,East
+C-0835,Customer_835,Home Office,USA,City_78,Quebec,91730,West
+C-0836,Customer_836,Corporate,Canada,City_20,Florida,44510,West
+C-0837,Customer_837,Home Office,USA,City_18,New York,11306,South
+C-0838,Customer_838,Corporate,Canada,City_93,New York,13849,West
+C-0839,Customer_839,Home Office,USA,City_60,California,22360,South
+C-0840,Customer_840,Consumer,USA,City_63,Ontario,55800,East
+C-0841,Customer_841,Consumer,Canada,City_6,Texas,46963,West
+C-0842,Customer_842,Consumer,USA,City_32,Ontario,64330,South
+C-0843,Customer_843,Corporate,Canada,City_93,Ontario,61707,Central
+C-0844,Customer_844,Consumer,Canada,City_43,Quebec,28689,South
+C-0845,Customer_845,Corporate,USA,City_2,California,39084,West
+C-0846,Customer_846,Consumer,USA,City_60,California,50387,East
+C-0847,Customer_847,Consumer,Canada,City_23,California,84816,West
+C-0848,Customer_848,Corporate,USA,City_83,Quebec,12642,West
+C-0849,Customer_849,Corporate,USA,City_31,Florida,52137,South
+C-0850,Customer_850,Consumer,USA,City_5,Ontario,89832,Central
+C-0851,Customer_851,Corporate,USA,City_83,Quebec,65561,West
+C-0852,Customer_852,Consumer,USA,City_34,New York,72260,Central
+C-0853,Customer_853,Corporate,Canada,City_10,Texas,25438,South
+C-0854,Customer_854,Home Office,Canada,City_89,Florida,58442,Central
+C-0855,Customer_855,Home Office,USA,City_2,New York,12994,South
+C-0856,Customer_856,Home Office,USA,City_11,Ontario,11813,East
+C-0857,Customer_857,Home Office,USA,City_50,California,94381,Central
+C-0858,Customer_858,Home Office,Canada,City_31,Ontario,65276,Central
+C-0859,Customer_859,Consumer,USA,City_56,Quebec,51243,East
+C-0860,Customer_860,Home Office,Canada,City_79,Texas,72912,Central
+C-0861,Customer_861,Home Office,Canada,City_73,Quebec,70272,East
+C-0862,Customer_862,Home Office,Canada,City_87,Florida,52051,West
+C-0863,Customer_863,Home Office,USA,City_83,Florida,88854,South
+C-0864,Customer_864,Corporate,Canada,City_9,Texas,92736,East
+C-0865,Customer_865,Consumer,USA,City_99,New York,75618,Central
+C-0866,Customer_866,Home Office,Canada,City_21,New York,11920,East
+C-0867,Customer_867,Home Office,USA,City_73,Florida,87219,Central
+C-0868,Customer_868,Home Office,Canada,City_28,Florida,86872,West
+C-0869,Customer_869,Consumer,USA,City_62,California,91132,East
+C-0870,Customer_870,Corporate,Canada,City_7,New York,12093,West
+C-0871,Customer_871,Consumer,USA,City_80,Texas,22905,South
+C-0872,Customer_872,Corporate,USA,City_16,New York,34351,Central
+C-0873,Customer_873,Home Office,USA,City_97,California,40981,Central
+C-0874,Customer_874,Home Office,USA,City_4,Quebec,83903,West
+C-0875,Customer_875,Consumer,Canada,City_4,Florida,80821,South
+C-0876,Customer_876,Consumer,Canada,City_40,Florida,92289,East
+C-0877,Customer_877,Corporate,USA,City_17,California,94021,East
+C-0878,Customer_878,Corporate,Canada,City_52,Texas,88513,Central
+C-0879,Customer_879,Consumer,USA,City_93,Florida,29874,West
+C-0880,Customer_880,Corporate,USA,City_52,Ontario,60931,West
+C-0881,Customer_881,Consumer,Canada,City_36,Florida,17674,East
+C-0882,Customer_882,Corporate,USA,City_38,Ontario,60516,South
+C-0883,Customer_883,Consumer,USA,City_50,California,70686,South
+C-0884,Customer_884,Consumer,Canada,City_63,California,79212,East
+C-0885,Customer_885,Consumer,USA,City_63,Florida,12426,East
+C-0886,Customer_886,Corporate,USA,City_62,New York,78498,West
+C-0887,Customer_887,Corporate,USA,City_99,Ontario,39943,South
+C-0888,Customer_888,Corporate,USA,City_7,Texas,76395,East
+C-0889,Customer_889,Consumer,Canada,City_27,Florida,54816,East
+C-0890,Customer_890,Corporate,Canada,City_92,Texas,14138,Central
+C-0891,Customer_891,Corporate,Canada,City_86,Florida,85945,East
+C-0892,Customer_892,Consumer,USA,City_14,New York,14017,East
+C-0893,Customer_893,Home Office,USA,City_71,New York,20451,South
+C-0894,Customer_894,Consumer,Canada,City_86,New York,72956,West
+C-0895,Customer_895,Corporate,USA,City_5,Quebec,20278,South
+C-0896,Customer_896,Consumer,USA,City_55,New York,53764,West
+C-0897,Customer_897,Home Office,USA,City_2,California,11134,Central
+C-0898,Customer_898,Consumer,USA,City_62,California,72943,East
+C-0899,Customer_899,Corporate,Canada,City_91,Quebec,64318,Central
+C-0900,Customer_900,Home Office,Canada,City_21,Ontario,70128,West
+C-0901,Customer_901,Corporate,Canada,City_79,Texas,98056,South
+C-0902,Customer_902,Home Office,USA,City_21,Florida,31869,South
+C-0903,Customer_903,Home Office,Canada,City_10,Florida,15039,Central
+C-0904,Customer_904,Consumer,Canada,City_87,Quebec,31281,West
+C-0905,Customer_905,Consumer,USA,City_58,California,20442,Central
+C-0906,Customer_906,Corporate,USA,City_39,Florida,83788,Central
+C-0907,Customer_907,Consumer,Canada,City_5,California,37586,East
+C-0908,Customer_908,Consumer,Canada,City_65,Ontario,63053,Central
+C-0909,Customer_909,Home Office,Canada,City_13,Texas,60489,East
+C-0910,Customer_910,Consumer,Canada,City_85,Ontario,93104,East
+C-0911,Customer_911,Home Office,USA,City_90,Quebec,96346,South
+C-0912,Customer_912,Home Office,Canada,City_85,New York,77087,East
+C-0913,Customer_913,Home Office,Canada,City_53,New York,22625,East
+C-0914,Customer_914,Corporate,USA,City_82,New York,44397,South
+C-0915,Customer_915,Corporate,Canada,City_45,Ontario,68671,Central
+C-0916,Customer_916,Corporate,USA,City_32,Florida,76897,West
+C-0917,Customer_917,Home Office,USA,City_36,Texas,36149,West
+C-0918,Customer_918,Corporate,USA,City_81,New York,70030,West
+C-0919,Customer_919,Corporate,Canada,City_99,Quebec,79906,Central
+C-0920,Customer_920,Consumer,Canada,City_60,Quebec,15283,East
+C-0921,Customer_921,Corporate,USA,City_11,New York,17610,West
+C-0922,Customer_922,Corporate,Canada,City_63,New York,53326,Central
+C-0923,Customer_923,Home Office,Canada,City_21,Texas,24924,East
+C-0924,Customer_924,Home Office,USA,City_52,New York,86162,South
+C-0925,Customer_925,Home Office,USA,City_55,Texas,10869,West
+C-0926,Customer_926,Home Office,Canada,City_26,Quebec,11014,East
+C-0927,Customer_927,Home Office,USA,City_68,New York,20103,West
+C-0928,Customer_928,Home Office,Canada,City_34,Ontario,92522,West
+C-0929,Customer_929,Corporate,Canada,City_52,Ontario,43458,West
+C-0930,Customer_930,Home Office,Canada,City_82,Quebec,92409,East
+C-0931,Customer_931,Home Office,Canada,City_99,Texas,33248,Central
+C-0932,Customer_932,Consumer,USA,City_93,Ontario,99160,East
+C-0933,Customer_933,Corporate,USA,City_52,Texas,53516,West
+C-0934,Customer_934,Corporate,USA,City_29,Ontario,39061,East
+C-0935,Customer_935,Corporate,USA,City_38,Ontario,34170,South
+C-0936,Customer_936,Home Office,Canada,City_42,Texas,18024,Central
+C-0937,Customer_937,Home Office,Canada,City_21,Florida,92214,East
+C-0938,Customer_938,Home Office,USA,City_42,Ontario,95947,South
+C-0939,Customer_939,Consumer,Canada,City_13,New York,53803,Central
+C-0940,Customer_940,Home Office,Canada,City_64,Quebec,29296,South
+C-0941,Customer_941,Consumer,Canada,City_17,Florida,96664,Central
+C-0942,Customer_942,Corporate,USA,City_9,Texas,28257,East
+C-0943,Customer_943,Home Office,USA,City_41,Florida,22855,South
+C-0944,Customer_944,Consumer,USA,City_1,California,95178,West
+C-0945,Customer_945,Consumer,Canada,City_2,California,30025,South
+C-0946,Customer_946,Home Office,USA,City_60,Ontario,14458,Central
+C-0947,Customer_947,Corporate,USA,City_48,Ontario,73610,East
+C-0948,Customer_948,Corporate,USA,City_29,New York,80843,Central
+C-0949,Customer_949,Corporate,USA,City_97,Quebec,93961,South
+C-0950,Customer_950,Consumer,USA,City_10,Florida,59831,South
+C-0951,Customer_951,Consumer,USA,City_58,California,53427,West
+C-0952,Customer_952,Consumer,Canada,City_60,Ontario,48506,East
+C-0953,Customer_953,Consumer,Canada,City_21,Quebec,15668,East
+C-0954,Customer_954,Corporate,USA,City_28,Florida,57195,South
+C-0955,Customer_955,Home Office,USA,City_75,Ontario,83233,East
+C-0956,Customer_956,Consumer,Canada,City_34,Ontario,34417,West
+C-0957,Customer_957,Consumer,Canada,City_8,California,91982,Central
+C-0958,Customer_958,Corporate,USA,City_59,California,20751,East
+C-0959,Customer_959,Home Office,USA,City_86,Ontario,56218,South
+C-0960,Customer_960,Home Office,USA,City_72,Texas,17352,Central
+C-0961,Customer_961,Corporate,USA,City_49,Ontario,89052,Central
+C-0962,Customer_962,Corporate,Canada,City_79,Quebec,98835,West
+C-0963,Customer_963,Home Office,USA,City_17,Ontario,38927,South
+C-0964,Customer_964,Consumer,USA,City_60,New York,51094,East
+C-0965,Customer_965,Home Office,USA,City_87,New York,64122,South
+C-0966,Customer_966,Corporate,USA,City_88,New York,39493,Central
+C-0967,Customer_967,Consumer,Canada,City_45,Texas,83539,South
+C-0968,Customer_968,Consumer,Canada,City_83,Texas,41707,East
+C-0969,Customer_969,Corporate,Canada,City_69,Ontario,78814,East
+C-0970,Customer_970,Corporate,USA,City_32,New York,17296,West
+C-0971,Customer_971,Corporate,USA,City_44,Texas,35398,East
+C-0972,Customer_972,Home Office,Canada,City_65,California,45842,East
+C-0973,Customer_973,Home Office,USA,City_87,Ontario,23261,South
+C-0974,Customer_974,Consumer,USA,City_8,Quebec,86709,South
+C-0975,Customer_975,Corporate,Canada,City_77,Florida,66704,Central
+C-0976,Customer_976,Consumer,Canada,City_72,Ontario,77173,West
+C-0977,Customer_977,Consumer,Canada,City_87,Florida,41781,South
+C-0978,Customer_978,Consumer,Canada,City_43,New York,23652,East
+C-0979,Customer_979,Consumer,USA,City_1,Florida,15103,Central
+C-0980,Customer_980,Corporate,USA,City_51,New York,35500,South
+C-0981,Customer_981,Consumer,Canada,City_24,California,45529,West
+C-0982,Customer_982,Corporate,USA,City_99,Florida,28452,West
+C-0983,Customer_983,Corporate,Canada,City_24,Ontario,59393,Central
+C-0984,Customer_984,Home Office,Canada,City_17,New York,41174,Central
+C-0985,Customer_985,Corporate,USA,City_5,Ontario,74450,Central
+C-0986,Customer_986,Home Office,Canada,City_20,Texas,45436,Central
+C-0987,Customer_987,Corporate,USA,City_21,New York,57406,Central
+C-0988,Customer_988,Corporate,USA,City_58,Florida,73059,East
+C-0989,Customer_989,Corporate,USA,City_31,New York,25954,East
+C-0990,Customer_990,Home Office,USA,City_11,Ontario,92722,South
+C-0991,Customer_991,Home Office,Canada,City_52,California,22356,West
+C-0992,Customer_992,Consumer,USA,City_15,New York,12187,East
+C-0993,Customer_993,Home Office,Canada,City_83,Florida,87243,East
+C-0994,Customer_994,Home Office,Canada,City_7,Texas,45098,East
+C-0995,Customer_995,Home Office,Canada,City_28,Quebec,31225,South
+C-0996,Customer_996,Home Office,Canada,City_51,California,13606,Central
+C-0997,Customer_997,Consumer,USA,City_58,Texas,67620,South
+C-0998,Customer_998,Home Office,USA,City_5,New York,42828,West
+C-0999,Customer_999,Corporate,Canada,City_5,Ontario,36489,West
+C-1000,Customer_1000,Corporate,Canada,City_94,Ontario,24387,West
